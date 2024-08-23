@@ -19,7 +19,7 @@ The project requires the following Python packages:
 - json
 
 ## Installation
-
+Change env.template to env after cd env change .env.template to .env 
 1. Clone the repository:
     ```sh
     git clone https://github.com/Varp0s/virus_scanner
