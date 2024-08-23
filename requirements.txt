@@ -5,4 +5,3 @@ Pillow
 python-multipart
 python-dotenv
 requests
-json
